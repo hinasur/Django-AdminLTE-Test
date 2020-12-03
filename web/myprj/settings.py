@@ -85,7 +85,7 @@ DATABASES = {
         'NAME': 'postgres',
         'USER': 'postgres',
         'PASSWORD': 'postgres',
-        'HOST': 'django_db_test',
+        'HOST': 'adminlte-test',
         'PORT': '5432',
     }
 }
